@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "Ernesto García <ernesto@blockdemy.com>",
   "dependencies": {
-    "@chainlink/contracts": "^0.0.10",
+    "@chainlink/contracts": "^0.4.0",
     "@openzeppelin/contracts": "^3.1.0",
     "@truffle/hdwallet-provider": "^1.0.43",
     "web3": "^1.2.11"
