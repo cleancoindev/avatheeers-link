@@ -11,7 +11,7 @@
   "author": "Ernesto García <ernesto@blockdemy.com>",
   "dependencies": {
     "@chainlink/contracts": "^0.0.10",
-    "@openzeppelin/contracts": "^3.1.0",
+    "@openzeppelin/contracts": "^4.7.3",
     "@truffle/hdwallet-provider": "^1.0.43",
     "web3": "^1.2.11"
   },
